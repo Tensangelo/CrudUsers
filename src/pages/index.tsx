@@ -16,7 +16,7 @@ const Home = () => {
                 <div className="flex justify-around items-center mt-16">
                     <Link
                         className="rounded-lg p-2 flex justify-center items-center w-48 bg-white text-[#445962] transition ease-in-out hover:scale-105 hover:bg-[#ffffffc9]"
-                        href="/"
+                        href="https://github.com/Tensangelo/CrudUsers"
                         target='_blank'
                     >
                         <Image
